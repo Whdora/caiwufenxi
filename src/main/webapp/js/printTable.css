@@ -1,0 +1,18 @@
+.printTable {
+	border:1px solid black;
+	border-collapse:collapse;
+	text-align:center;
+	font-size:12px;
+}
+.printTable thead  tr
+{
+	height:30px;
+}
+.printTable tbody  tr
+{
+	height:24px;
+}
+.printTable  td
+{
+	border:1px solid black;
+}
